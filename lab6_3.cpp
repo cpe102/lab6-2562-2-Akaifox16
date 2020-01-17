@@ -8,11 +8,8 @@ char before(char x){
 	if( x == 'A')
 		return 'Z';
 	else
-	{
 		return x - 1;
-	}
-	
-} // A-Z = 65 - 90
+} 
 
 int main(){
 	//Test Case

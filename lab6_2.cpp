@@ -47,5 +47,5 @@ int main(){
     cout << "Fahsai: " << date << "....that is OK!!! I'm looking forward to watch " << mov << " with you.\n";
     username(name);
     getline(cin , say);
-    cout << "Fahsai: 555+ see you "<< date << ". Bye Bye \(^ ^)/"; 
+    cout << "Fahsai: 555+ see you "<< date << ". Bye Bye \\(^ ^)/"; 
 }
